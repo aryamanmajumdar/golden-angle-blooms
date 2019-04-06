@@ -8,4 +8,4 @@ Variations of the bloom are explained as comments in the code
 
 An example: https://www.youtube.com/watch?v=2f9ScIq0uSc
 
-[![Alt Text](https://media.giphy.com/media/TKAXlI4vhu9pWnPosn/giphy.gif)](https://youtu.be/2f9ScIq0uSc?t=189)
+[![Alt Text](https://media.giphy.com/media/THy9075HSkeHxAawc9/giphy.gif)](https://youtu.be/2f9ScIq0uSc?t=189)
